@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/fadhilla28/pokemon-pages.github.io/static/js/main.353b1751.js",
-    "static/media/pokeball-16799.png": "/fadhilla28/pokemon-pages.github.io/static/media/pokeball-16799.72253b2ba00410c0ee19.png",
-    "index.html": "/fadhilla28/pokemon-pages.github.io/index.html",
-    "main.353b1751.js.map": "/fadhilla28/pokemon-pages.github.io/static/js/main.353b1751.js.map"
+    "main.js": "/pokemon-pages/static/js/main.ab615e2e.js",
+    "static/media/pokeball-16799.png": "/pokemon-pages/static/media/pokeball-16799.72253b2ba00410c0ee19.png",
+    "index.html": "/pokemon-pages/index.html",
+    "main.ab615e2e.js.map": "/pokemon-pages/static/js/main.ab615e2e.js.map"
   },
   "entrypoints": [
-    "static/js/main.353b1751.js"
+    "static/js/main.ab615e2e.js"
   ]
 }
